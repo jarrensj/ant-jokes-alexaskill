@@ -1,0 +1,20 @@
+{
+  "name": "ant-jokes",
+  "version": "0.0.1",
+  "description": "Ant joke skill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "jokes",
+    "ants"
+  ],
+  "author": "jarrensj",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  }
+}
