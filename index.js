@@ -22,7 +22,11 @@ var FACTS = [
     "What kind of ant are you? ... signific-ant.",
     "What kind of ant is valuable? ... import-ant.",
     "What do you call a fancy ant? ... eleg-ant.",
-    "what do you call a smart ant? ... brilli-ant." 
+    "what do you call a smart ant? ... brilli-ant.",
+    "What do you call a baby ant? ... inf-ant.",
+    "What do you call a purple ant? ... eggpl-ant.",
+    "What do you call an ant that helps a king? ... serv-ant.",
+    "What do you call the medicine for ants? ... ant-i-biotics."
 ];
 
 exports.handler = function(event, context, callback) {
