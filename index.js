@@ -8,25 +8,34 @@ var SKILL_NAME = 'Ant Jokes';
  * Array containing space facts.
  */
 var FACTS = [
-    "What do you call a really big ant? ... a gi-ant! ",
-    "What do you call an ant that hates the environment? ...  a pollut-ant. ",
-    "What do you call an ant that likes water? ... an absorb-ant",
-    "What do you call an ant that likes to put out fires? ... a fire hydr-ant. ",
-    "What do you call a really old ant? ... an antique! ",
-    "What do you call an ant that likes to sell stuff? ... a merch-ant.",
+    "What do you call a really big ant? ... gi-ant! ",
+    "What do you call an ant that hates the environment? ...  pollut-ant. ",
+    "What do you call an ant that likes water? ... absorb-ant",
+    "What do you call an ant that likes to put out fires? ... fire hydr-ant. ",
+    "What do you call a really old ant? ... antique! ",
+    "What do you call an ant that likes to sell stuff? ... merch-ant.",
     "What do you call an ant that likes Christmas? ... S-ant-a. ",
-    "What do you call an ant that smells really nice? ... deodor-ant. ",
-    "What do you call an ant that has a trunk? ... an eleph-ant.",
+    "What do you does an ant need if it smells really bad? ... deodor-ant. ",
+    "What do you call an ant that smells really nice? ... fragr-ant."
+    "What do you call an ant that has a trunk? ... eleph-ant.",
     "Where do ants come from? ... Atl-ant-a.",
-    "What do you call an ant that is kind of shy? ... reluct-ant... or hesit-ant.",
-    "What kind of ant are you? ... signific-ant.",
+    "What do you call an ant that is kind of shy? ... hesit-ant.",
+    "What do you call an ant that lives somewhere? ... habit-ant.",
     "What kind of ant is valuable? ... import-ant.",
     "What do you call a fancy ant? ... eleg-ant.",
     "what do you call a smart ant? ... brilli-ant.",
     "What do you call a baby ant? ... inf-ant.",
     "What do you call a purple ant? ... eggpl-ant.",
     "What do you call an ant that helps a king? ... serv-ant.",
-    "What do you call the medicine for ants? ... ant-i-biotics."
+    "What do you call the medicine for ants? ... ant-i-biotics.",
+    "What do you call an ant that is in the military? ... serge-ant.",
+    "What do you call an ant that grows in soil? ... pl-ant.",
+    "What do you call an ant that is having a birthday? ... celebr-ant.",
+    "What do you call an ant that is bossy? ... tyr-ant.",
+    "What do you call an ant that never changes? ... const-ant.",
+    "What do you call an ant that won't stop moving? ... ant-sy.",
+    "What do you call a far away ant? ... dist-ant.",
+    "What do you call a noteworthy ant? ... signific-ant"
 ];
 
 exports.handler = function(event, context, callback) {
