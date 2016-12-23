@@ -14,7 +14,7 @@ var FACTS = [
     "What do you call an ant that likes to put out fires? ... fire hydr-ant. ",
     "What do you call a really old ant? ... antique! ",
     "What do you call an ant that likes to sell stuff? ... merch-ant.",
-    "What do you call an ant that likes Christmas? ... S-ant-a. ",
+    "What do you call an ant that likes Christmas? ... Santa. ",
     "What do you does an ant need if it smells really bad? ... deodor-ant. ",
     "What do you call an ant that smells really nice? ... fragr-ant.",
     "What do you call an ant that has a trunk? ... eleph-ant.",
